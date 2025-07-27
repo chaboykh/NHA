@@ -638,11 +638,11 @@ const App = ({ ffmpegRef, isServer }) => {
 				<p className="mb-4 text-text-muted text-sm text-center">
 					Website made by{" "}
 					<Link
-						href={"https://ncxclub.vercel.app"}
+						href={"https://github.com/ItsPi3141"}
 						className="link"
 						target="_blank"
 					>
-						NcxClub
+						ItsPi3141
 					</Link>
 					<br />
 					This project is open-source! View{" "}
@@ -664,12 +664,12 @@ const App = ({ ffmpegRef, isServer }) => {
 					collection on{" "}
 					<Link
 						href={
-							"https://ncxclub.vercel.app/discord.html"
+							"https://www.figma.com/community/file/1316822758717784787/ultimate-discord-library"
 						}
 						className="link"
 						target="_blank"
 					>
-						Discord
+						Figma
 					</Link>
 				</p>
 			</main>
