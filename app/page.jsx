@@ -638,11 +638,11 @@ const App = ({ ffmpegRef, isServer }) => {
 				<p className="mb-4 text-text-muted text-sm text-center">
 					Website made by{" "}
 					<Link
-						href={"https://ncxclub.vercel.app/"}
+						href={"https://ncxclub.vercel.app"}
 						className="link"
 						target="_blank"
 					>
-						Ncx Club
+						NcxClub
 					</Link>
 					<br />
 					This project is open-source! View{" "}
